@@ -133,3 +133,4 @@ dmypy.json
 ####
 __init__.py
 cdk.out/
+cdk.json
