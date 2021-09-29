@@ -132,5 +132,4 @@ dmypy.json
 
 ####
 __init__.py
-app.py
 cdk.out/
